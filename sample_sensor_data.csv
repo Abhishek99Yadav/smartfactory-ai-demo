@@ -1,0 +1,6 @@
+temperature,vibration,pressure,machine_status,maintenance_required
+75,0.3,101,Healthy,0
+82,0.5,107,Warning,1
+90,0.8,115,Critical,1
+78,0.4,100,Healthy,0
+85,0.6,109,Warning,1
