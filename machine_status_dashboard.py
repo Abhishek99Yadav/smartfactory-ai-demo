@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("data/sample_sensor_data.csv")
+df = pd.read_csv("sample_sensor_data.csv")
 
 # Group by health status
 status_counts = df['machine_status'].value_counts()
