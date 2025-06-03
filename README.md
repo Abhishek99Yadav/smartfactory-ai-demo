@@ -9,7 +9,7 @@ This repository showcases code samples aligned with the SmartFactory.AI project:
 ## Structure
 - `predictive_maintenance.py`: Train a classifier for maintenance prediction
 - `resource_optimizer.py`: Optimize machine-task allocation using OR-Tools
-- `visualization/machine_status_dashboard.py`: Basic health dashboard
+- `machine_status_dashboard.py`: Basic health dashboard
 
 ## Setup
 ```bash
